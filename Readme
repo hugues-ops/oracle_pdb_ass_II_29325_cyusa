@@ -1,0 +1,18 @@
+#Oracle PDB Assignment II
+
+*Overview
+This assignment covers creating, opening, managing, and deleting Pluggable Databases in Oracle XE.
+
+*Environment
+Oracle XE, SQL Developer, OEM
+
+*Tasks completed
+1. Main PDB created: cy_pdb_29325
+2. User created inside PDB: cyusa_plsqlauca_29325
+3. Temporary PDB created and deleted: cy_to_delete_pdb_29325
+
+*Challenges
+- Needed SYSDBA privileges to open PDB
+- OEM requires root container name (XE), not PDB name
+
+I confirm all work is my own.
